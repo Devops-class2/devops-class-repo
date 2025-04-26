@@ -1,0 +1,15 @@
+#This file contains the names for files and directories i want git to ignore
+test 
+bash-test
+main / master
+feat/public-subnet
+feat/private-subnet
+feat/vpc
+feat/NAT-gateways
+feat/dynamodb
+feat/eks-clusters
+bug/fix
+
+release -stage- branch
+static, dynamic  release/v1.0.0,  release/v1.2.0
+hotfix

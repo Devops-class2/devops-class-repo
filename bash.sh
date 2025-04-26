@@ -11,3 +11,4 @@ else
 fi
 
 #Thanks for the comment 
+#This is a comment that bash will ignore 
